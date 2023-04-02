@@ -40,3 +40,4 @@ public class TicTacToe {
             System.out.println((userName.equals("x"))||(userName.equals("o")));
         }
     }
+//modularity, reusability, readbility, maintainability, testing - functions
