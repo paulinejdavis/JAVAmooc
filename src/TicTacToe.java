@@ -41,3 +41,8 @@ public class TicTacToe {
         }
     }
 //modularity, reusability, readbility, maintainability, testing - functions
+
+//oop an object has a state and a behaviour
+//an object is an instance of a class
+//a class is a blueprint - attributes (state, methods(Behaviour
+//each user has a name , a marker and can move
