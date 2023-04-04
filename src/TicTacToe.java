@@ -46,3 +46,7 @@ public class TicTacToe {
 //an object is an instance of a class
 //a class is a blueprint - attributes (state, methods(Behaviour
 //each user has a name , a marker and can move
+//encapsulation  - expose certain bits to use - username
+//abstraction - abstract complicated it - how board gets updated
+//inheritance - reuse/add additional functionality
+//polymorhis, - objects behave differently based on type
