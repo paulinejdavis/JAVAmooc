@@ -53,8 +53,8 @@ public class Board {
 
 
     public static void main(String[] args) {
-        Board testBoard = new Board();
-        testBoard.displayBoard();
+        //Board testBoard = new Board();
+        //testBoard.displayBoard();
         //testBoard.gameLoop();
     }
 
