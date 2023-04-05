@@ -1,0 +1,9 @@
+
+public Interface Piece {
+    String getName();
+    void move(Position position);
+    Position getPosition();
+}
+
+
+
