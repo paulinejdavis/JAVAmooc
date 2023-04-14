@@ -10,6 +10,7 @@ public class ComparisonOps {
         //> greater than
         // = assign a variable
         //boolean c = (a >= b);
+        //|| or
 
         double a = 2.4;
 
@@ -19,8 +20,12 @@ public class ComparisonOps {
         if(a > 7) {
             System.out.println("Greater than 7");
         }
+        //a == 2.4 || a == 2.5 || a == 5.1
         if(true || false) {
             System.out.println("a == 2.4 or a == 2.5");
+        }
+        if(a >= 0 && a <= 100) {
+            System.out.println("a is in the range");
         }
 
     }
