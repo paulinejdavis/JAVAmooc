@@ -1,7 +1,13 @@
 public class methodMain {
     public static void main(String[] args) {
-        System.out.println(args[0]);
-        System.out.println(args[1]);
+    }
+
+    public void sayHi() {
+        System.out.println("Boom");
+    }
+}
+//        System.out.println(args[0]);
+//        System.out.println(args[1]);
         
         /**if(args[0].equals("Hell")) {
             //do thid
@@ -10,13 +16,13 @@ public class methodMain {
         }*/
         // String[]s = {"Hey", "Sup"};
         //saySomething(s);
-    }
+    //}
     //call inside the main method
     //static void saySomething(String[] s){
        // System.out.println(s[1]);
 
     //}
-}
+//}
 //➜  src git:(main) ✗ ls
 //        ASCIIArt.java        EscapeSequences.java Pokemon.java
 //        Arrays.java          Exponents.java       StringToInt.java
