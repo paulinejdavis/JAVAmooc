@@ -32,6 +32,7 @@ public class Break {
                 System.out.println(i + "," + j);
                 break;
             }
+            //so breaks out of the loop its actually in. Not all the loops.
         }
 
 
