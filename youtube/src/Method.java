@@ -1,4 +1,5 @@
 public class Method {
+    //methods are just chuck of code that you run with one line
     public static void main(String[] args) {
         welcome();
         multiply(5, 100);
